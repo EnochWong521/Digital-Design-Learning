@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+x = 0, s = 0, y0 = 0, y1 = 0
+x = 0, s = 1, y0 = 0, y1 = 0
+x = 1, s = 0, y0 = 1, y1 = 0
+x = 1, s = 1, y0 = 0, y1 = 1
+$stop called at time : 40 ns : File "C:/Users/Enoch/Git/Digital-Design-Learning/demultiplexer_1/demultiplexer_1.srcs/sources_1/new/demultiplexer_1_tb.v" Line 25
