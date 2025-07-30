@@ -7,7 +7,7 @@ module d_ff_sync_rstn_tb();
     reg [1:0] delay;
     integer i;
     
-    d_ff_sync_rstn DDF0(
+    d_ff_sync_rstn DFF0(
         .reset_n(reset_n),
         .d(d),
         .clk(clk),

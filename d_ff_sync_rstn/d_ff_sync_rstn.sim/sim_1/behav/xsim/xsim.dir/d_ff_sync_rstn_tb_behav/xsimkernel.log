@@ -1,0 +1,4 @@
+Running: xsim.dir/d_ff_sync_rstn_tb_behav/xsimk.exe -simmode gui -wdb d_ff_sync_rstn_tb_behav.wdb -simrunnum 0 -socket 64889
+Design successfully loaded
+Design Loading Memory Usage: 29652 KB (Peak: 29652 KB)
+Design Loading CPU Usage: 499 ms
