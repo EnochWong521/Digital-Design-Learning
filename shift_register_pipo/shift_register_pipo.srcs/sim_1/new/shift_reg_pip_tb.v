@@ -22,18 +22,20 @@ module shift_reg_pipo_tb();
     end
     
     initial begin
+        // reset circuit
+        #1;
         reset_n = 0;
-        for (i=0; i<16; i=i+1) begin
-            #1;
-            p = i;
+        p = 0;
+        #1.3;
+        
+        //release reset
+        reset_n = 1;
+        
+        for(i=0;i<10;i=i+1) begin
+            @(posedge clk);
+            p = $random;
         end
         
-        reset_n = 1;    
-        for (i=0; i<16; i=i+1) begin
-            #1;
-            p = i;
-        end
-        #20;
         $finish;
     end
     
