@@ -1,0 +1,7 @@
+Running: xsim.dir/shift_reg_piso_behav/xsimk.exe -simmode gui -wdb shift_reg_piso_behav.wdb -simrunnum 0 -socket 55339
+Design successfully loaded
+Design Loading Memory Usage: 29624 KB (Peak: 29624 KB)
+Design Loading CPU Usage: 499 ms
+Simulation completed
+Simulation Memory Usage: 30576 KB (Peak: 30576 KB)
+Simulation CPU Usage: 546 ms
