@@ -4,10 +4,10 @@
 <!-- Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.                   -->
 <!-- Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.   -->
 
-<Project Product="Vivado" Version="7" Minor="68" Path="C:/Users/Enoch/Git/Digital-Design-Learning/piso_shift_register/piso_shift_register.xpr">
+<Project Product="Vivado" Version="7" Minor="68" Path="C:/Users/Enoch/Git/Digital-Design-Learning/shift_register_piso/shift_register_piso.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
-    <Option Name="Id" Val="e17b6cb46f894d3fbe1b2bdf059d3933"/>
+    <Option Name="Id" Val="09578cfcd4e444eab2b054ff9948e1c4"/>
     <Option Name="Part" Val="xc7k70tfbv676-1"/>
     <Option Name="CompiledLibDir" Val="$PCACHEDIR/compile_simlib"/>
     <Option Name="CompiledLibDirXSim" Val=""/>
