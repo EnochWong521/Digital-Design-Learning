@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/Enoch/Git/Digital-Design-Learning/clock_divider_n_bit/clock_divider_n_bit.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/Enoch/Git/Digital-Design-Learning/clock_divider_n_bit/clock_divider_n_bit.srcs/sim_1/new/clock_div_nbit_tb.v,1754872350,verilog,,,,tb_clock_div_nbit,,,,,,,,
+C:/Users/Enoch/Git/Digital-Design-Learning/clock_divider_n_bit/clock_divider_n_bit.srcs/sources_1/new/clock_div_nbit.v,1754872579,verilog,,C:/Users/Enoch/Git/Digital-Design-Learning/n_bit_counter/n_bit_counter.srcs/sources_1/new/counter_nbit.v,,clock_div_nbit,,,,,,,,
+,,,,C:/Users/Enoch/Git/Digital-Design-Learning/clock_divider_n_bit/clock_divider_n_bit.srcs/sim_1/new/clock_div_nbit_tb.v,,counter_nbit,,,,,,,,
