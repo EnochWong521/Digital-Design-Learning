@@ -1,0 +1,89 @@
+Time resolution is 1 ps
+1000 clk rising we=0 addr=0 din=00 dout=xx
+2000 clk rising we=1 addr=0 din=24 dout=xx
+SUCCESS address = 0, expected_data = 24, observed_data = 24
+3000 clk rising we=1 addr=0 din=24 dout=24
+4000 clk rising we=1 addr=1 din=09 dout=24
+SUCCESS address = 1, expected_data = 09, observed_data = 09
+5000 clk rising we=1 addr=1 din=09 dout=09
+6000 clk rising we=1 addr=1 din=09 dout=09
+7000 clk rising we=1 addr=1 din=09 dout=09
+8000 clk rising we=1 addr=2 din=0d dout=09
+SUCCESS address = 2, expected_data = 0d, observed_data = 0d
+9000 clk rising we=1 addr=2 din=0d dout=0d
+10000 clk rising we=1 addr=2 din=0d dout=0d
+11000 clk rising we=1 addr=2 din=0d dout=0d
+12000 clk rising we=1 addr=2 din=0d dout=0d
+13000 clk rising we=1 addr=2 din=0d dout=0d
+14000 clk rising we=1 addr=3 din=65 dout=0d
+SUCCESS address = 3, expected_data = 65, observed_data = 65
+15000 clk rising we=1 addr=3 din=65 dout=65
+16000 clk rising we=1 addr=3 din=65 dout=65
+17000 clk rising we=1 addr=4 din=01 dout=65
+SUCCESS address = 4, expected_data = 01, observed_data = 01
+18000 clk rising we=1 addr=4 din=01 dout=01
+19000 clk rising we=1 addr=4 din=01 dout=01
+20000 clk rising we=1 addr=4 din=01 dout=01
+21000 clk rising we=1 addr=4 din=01 dout=01
+22000 clk rising we=1 addr=4 din=01 dout=01
+23000 clk rising we=1 addr=5 din=76 dout=01
+SUCCESS address = 5, expected_data = 76, observed_data = 76
+24000 clk rising we=1 addr=5 din=76 dout=76
+25000 clk rising we=1 addr=5 din=76 dout=76
+26000 clk rising we=1 addr=5 din=76 dout=76
+27000 clk rising we=1 addr=5 din=76 dout=76
+28000 clk rising we=1 addr=5 din=76 dout=76
+29000 clk rising we=1 addr=6 din=ed dout=76
+SUCCESS address = 6, expected_data = ed, observed_data = ed
+30000 clk rising we=1 addr=6 din=ed dout=ed
+31000 clk rising we=1 addr=6 din=ed dout=ed
+32000 clk rising we=1 addr=6 din=ed dout=ed
+33000 clk rising we=1 addr=6 din=ed dout=ed
+34000 clk rising we=1 addr=7 din=f9 dout=ed
+SUCCESS address = 7, expected_data = f9, observed_data = f9
+35000 clk rising we=1 addr=7 din=f9 dout=f9
+36000 clk rising we=1 addr=7 din=f9 dout=f9
+37000 clk rising we=1 addr=7 din=f9 dout=f9
+38000 clk rising we=1 addr=7 din=f9 dout=f9
+39000 clk rising we=1 addr=7 din=f9 dout=f9
+40000 clk rising we=1 addr=7 din=f9 dout=f9
+41000 clk rising we=1 addr=8 din=c5 dout=f9
+SUCCESS address = 8, expected_data = c5, observed_data = c5
+42000 clk rising we=1 addr=8 din=c5 dout=c5
+43000 clk rising we=1 addr=8 din=c5 dout=c5
+44000 clk rising we=1 addr=9 din=e5 dout=c5
+SUCCESS address = 9, expected_data = e5, observed_data = e5
+45000 clk rising we=1 addr=9 din=e5 dout=e5
+46000 clk rising we=1 addr=9 din=e5 dout=e5
+47000 clk rising we=1 addr=9 din=e5 dout=e5
+48000 clk rising we=1 addr=9 din=e5 dout=e5
+49000 clk rising we=1 addr=9 din=e5 dout=e5
+50000 clk rising we=1 addr=9 din=e5 dout=e5
+51000 clk rising we=1 addr=9 din=e5 dout=e5
+52000 clk rising we=1 addr=10 din=12 dout=e5
+SUCCESS address = 10, expected_data = 12, observed_data = 12
+53000 clk rising we=1 addr=10 din=12 dout=12
+54000 clk rising we=1 addr=10 din=12 dout=12
+55000 clk rising we=1 addr=10 din=12 dout=12
+56000 clk rising we=1 addr=10 din=12 dout=12
+57000 clk rising we=1 addr=10 din=12 dout=12
+58000 clk rising we=1 addr=10 din=12 dout=12
+59000 clk rising we=1 addr=10 din=12 dout=12
+60000 clk rising we=1 addr=11 din=f2 dout=12
+SUCCESS address = 11, expected_data = f2, observed_data = f2
+61000 clk rising we=1 addr=11 din=f2 dout=f2
+62000 clk rising we=1 addr=11 din=f2 dout=f2
+63000 clk rising we=1 addr=11 din=f2 dout=f2
+64000 clk rising we=1 addr=11 din=f2 dout=f2
+65000 clk rising we=1 addr=11 din=f2 dout=f2
+66000 clk rising we=1 addr=11 din=f2 dout=f2
+67000 clk rising we=1 addr=12 din=e8 dout=f2
+SUCCESS address = 12, expected_data = e8, observed_data = e8
+68000 clk rising we=1 addr=12 din=e8 dout=e8
+69000 clk rising we=1 addr=12 din=e8 dout=e8
+70000 clk rising we=1 addr=12 din=e8 dout=e8
+71000 clk rising we=1 addr=12 din=e8 dout=e8
+72000 clk rising we=1 addr=12 din=e8 dout=e8
+73000 clk rising we=1 addr=13 din=5c dout=e8
+SUCCESS address = 13, expected_data = 5c, observed_data = 5c
+740
