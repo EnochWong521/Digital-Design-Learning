@@ -86,4 +86,61 @@ SUCCESS address = 12, expected_data = e8, observed_data = e8
 72000 clk rising we=1 addr=12 din=e8 dout=e8
 73000 clk rising we=1 addr=13 din=5c dout=e8
 SUCCESS address = 13, expected_data = 5c, observed_data = 5c
-740
+74000 clk rising we=1 addr=13 din=5c dout=5c
+75000 clk rising we=1 addr=13 din=5c dout=5c
+76000 clk rising we=1 addr=13 din=5c dout=5c
+77000 clk rising we=1 addr=13 din=5c dout=5c
+78000 clk rising we=1 addr=13 din=5c dout=5c
+79000 clk rising we=1 addr=14 din=2d dout=5c
+SUCCESS address = 14, expected_data = 2d, observed_data = 2d
+80000 clk rising we=1 addr=14 din=2d dout=2d
+81000 clk rising we=1 addr=14 din=2d dout=2d
+82000 clk rising we=1 addr=14 din=2d dout=2d
+83000 clk rising we=1 addr=14 din=2d dout=2d
+84000 clk rising we=1 addr=14 din=2d dout=2d
+85000 clk rising we=1 addr=15 din=63 dout=2d
+SUCCESS address = 15, expected_data = 63, observed_data = 63
+86000 clk rising we=1 addr=15 din=63 dout=63
+87000 clk rising we=1 addr=15 din=63 dout=63
+Test count: 16, Success count: 16, Error count: 0
+88000 clk rising we=1 addr=8 din=63 dout=c5
+89000 clk rising we=1 addr=8 din=63 dout=63
+90000 clk rising we=1 addr=8 din=63 dout=63
+91000 clk rising we=1 addr=8 din=63 dout=63
+92000 clk rising we=1 addr=8 din=63 dout=63
+93000 clk rising we=1 addr=8 din=63 dout=63
+94000 clk rising we=1 addr=8 din=63 dout=63
+95000 clk rising we=1 addr=8 din=63 dout=63
+96000 clk rising we=1 addr=8 din=63 dout=63
+97000 clk rising we=1 addr=8 din=63 dout=63
+98000 clk rising we=1 addr=8 din=63 dout=63
+99000 clk rising we=1 addr=8 din=63 dout=63
+100000 clk rising we=1 addr=8 din=63 dout=63
+101000 clk rising we=1 addr=8 din=63 dout=63
+102000 clk rising we=1 addr=8 din=63 dout=63
+103000 clk rising we=1 addr=8 din=63 dout=63
+104000 clk rising we=1 addr=8 din=63 dout=63
+105000 clk rising we=1 addr=8 din=63 dout=63
+106000 clk rising we=1 addr=8 din=63 dout=63
+107000 clk rising we=1 addr=8 din=63 dout=63
+108000 clk rising we=1 addr=8 din=63 dout=63
+109000 clk rising we=1 addr=8 din=63 dout=63
+110000 clk rising we=1 addr=8 din=63 dout=63
+111000 clk rising we=1 addr=8 din=63 dout=63
+112000 clk rising we=1 addr=8 din=63 dout=63
+113000 clk rising we=1 addr=8 din=63 dout=63
+114000 clk rising we=1 addr=8 din=63 dout=63
+115000 clk rising we=1 addr=8 din=63 dout=63
+116000 clk rising we=1 addr=8 din=63 dout=63
+117000 clk rising we=1 addr=8 din=63 dout=63
+118000 clk rising we=1 addr=8 din=63 dout=63
+119000 clk rising we=1 addr=8 din=63 dout=63
+120000 clk rising we=1 addr=8 din=63 dout=63
+121000 clk rising we=1 addr=8 din=63 dout=63
+122000 clk rising we=1 addr=8 din=63 dout=63
+123000 clk rising we=1 addr=8 din=63 dout=63
+124000 clk rising we=1 addr=8 din=63 dout=63
+125000 clk rising we=1 addr=8 din=63 dout=63
+126000 clk rising we=1 addr=8 din=63 dout=63
+127000 clk rising we=1 addr=8 din=63 dout=63
+$finish called at time : 126800 ps : File "C:/Users/Enoch/Git/Digital-Design-Learning/ram_single_port_async_read/ram_single_port_async_read.srcs/sim_1/new/ram_sp_async_read_tb.v" Line 86
