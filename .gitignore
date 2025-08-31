@@ -1,37 +1,42 @@
+# Keep these
+!.gitignore
+!README.md
+
 # Ignore everything by default
 *
 
-# Always track .gitignore itself
-!.gitignore
-
-# But keep directories (so Git can traverse into them)
+# Allow dirs so we can descend
 !*/
 
-# Track only Verilog & SystemVerilog source files
+# Track HDL and common text
 !*.v
 !*.sv
-
-# track package/interface files
 !*.vh
 !*.svh
+!*.md
 
-# Ignore common simulator & build artifacts
-*.log
-*.wdb
-*.jou
-*.db
+# Prefer clean layout: only track in rtl/ and tb/
+# (Comment these two lines if you want HDL anywhere)
+#/*/rtl/*
+#/*/tb/*
+
+# Ignore EDA/Vivado artifacts completely
 *.xpr
-*.dcp
+*.xci
+*.xsa
+*.log
+*.jou
+*.wdb
+*.db
 *.rpt
 *.xml
-*.xsim/
-*.sim/
-*.cache/
-*.hw/
-*.ip_user_files/
-*.runs/
-*.str
-*.pb
 *.tmp
 *.bak
+.runs/
+.sim/
+.xsim/
+.hw/
+.cache/
+.ip_user_files/
+*.srcs/        # safe now that HDL is moved out
 build/
