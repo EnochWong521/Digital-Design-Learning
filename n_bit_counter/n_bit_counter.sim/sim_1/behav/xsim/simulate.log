@@ -1,4 +1,0 @@
-Time resolution is 1 ps
-Fatal: Mismatch: exp=0 got=1
-Time: 25 ns  Iteration: 0  Process: /counter_nbit_tb/Initial25_3  Scope: counter_nbit_tb  File: C:/Users/Enoch/Git/Digital-Design-Learning/n_bit_counter/n_bit_counter.srcs/sim_1/new/counter_nbit_tb.v Line: 37
-$finish called at time : 25 ns

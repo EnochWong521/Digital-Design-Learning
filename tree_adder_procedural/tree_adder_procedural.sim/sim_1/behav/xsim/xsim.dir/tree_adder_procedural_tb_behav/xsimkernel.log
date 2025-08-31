@@ -1,7 +1,0 @@
-Running: xsim.dir/tree_adder_procedural_tb_behav/xsimk.exe -simmode gui -wdb tree_adder_procedural_tb_behav.wdb -simrunnum 0 -socket 54305
-Design successfully loaded
-Design Loading Memory Usage: 29620 KB (Peak: 29620 KB)
-Design Loading CPU Usage: 436 ms
-Simulation completed
-Simulation Memory Usage: 30584 KB (Peak: 30584 KB)
-Simulation CPU Usage: 483 ms

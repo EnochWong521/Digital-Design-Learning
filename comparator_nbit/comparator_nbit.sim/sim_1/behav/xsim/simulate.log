@@ -1,5 +1,0 @@
-Time resolution is 1 ps
-a =    x, b =    x, smaller = x, equal = x, greater = x
-a =    0, b =    0, smaller = 0, equal = 1, greater = 0
-a =   20, b =   40, smaller = 1, equal = 0, greater = 0
-a =   55, b =   17, smaller = 0, equal = 0, greater = 1

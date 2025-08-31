@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Enoch/Git/Digital-Design-Learning/piso_shift_register/piso_shift_register.srcs/sources_1/new/shift_reg_piso.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module shift_reg_piso
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Enoch/Git/Digital-Design-Learning/piso_shift_register/piso_shift_register.srcs/sim_1/new/shift_reg_piso_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module shift_reg_piso_tb
-WARNING: [VRFC 10-8373] loop statement with empty body is not permitted in this mode of Verilog [C:/Users/Enoch/Git/Digital-Design-Learning/piso_shift_register/piso_shift_register.srcs/sim_1/new/shift_reg_piso_tb.v:40]
-WARNING: [VRFC 10-8373] loop statement with empty body is not permitted in this mode of Verilog [C:/Users/Enoch/Git/Digital-Design-Learning/piso_shift_register/piso_shift_register.srcs/sim_1/new/shift_reg_piso_tb.v:48]

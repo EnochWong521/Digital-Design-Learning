@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Enoch/Git/Digital-Design-Learning/priority_encoder_4_2/priority_encoder_4_2.srcs/sources_1/new/prio_enc_4_2.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module prio_enc_4_2
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Enoch/Git/Digital-Design-Learning/priority_encoder_4_2/priority_encoder_4_2.srcs/sim_1/new/prio_enc_4_2_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module prio_enc_4_2_tb

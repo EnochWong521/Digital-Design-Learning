@@ -1,7 +1,0 @@
-Running: xsim.dir/prio_enc_4_2_tb_behav/xsimk.exe -simmode gui -wdb prio_enc_4_2_tb_behav.wdb -simrunnum 0 -socket 59536
-Design successfully loaded
-Design Loading Memory Usage: 28688 KB (Peak: 28688 KB)
-Design Loading CPU Usage: 515 ms
-Simulation completed
-Simulation Memory Usage: 29640 KB (Peak: 29640 KB)
-Simulation CPU Usage: 546 ms

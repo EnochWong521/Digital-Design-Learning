@@ -1,7 +1,0 @@
-Running: xsim.dir/multiplexer_1_tb_behav/xsimk.exe -simmode gui -wdb multiplexer_1_tb_behav.wdb -simrunnum 0 -socket 58071
-Design successfully loaded
-Design Loading Memory Usage: 28608 KB (Peak: 28608 KB)
-Design Loading CPU Usage: 499 ms
-Simulation completed
-Simulation Memory Usage: 29556 KB (Peak: 29556 KB)
-Simulation CPU Usage: 546 ms
