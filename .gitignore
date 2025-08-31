@@ -1,0 +1,37 @@
+# Ignore everything by default
+*
+
+# Always track .gitignore itself
+!.gitignore
+
+# But keep directories (so Git can traverse into them)
+!*/
+
+# Track only Verilog & SystemVerilog source files
+!*.v
+!*.sv
+
+# track package/interface files
+!*.vh
+!*.svh
+
+# Ignore common simulator & build artifacts
+*.log
+*.wdb
+*.jou
+*.db
+*.xpr
+*.dcp
+*.rpt
+*.xml
+*.xsim/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.str
+*.pb
+*.tmp
+*.bak
+build/
